@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #382C2C;
+}
+canvas {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  border: 2px solid tomato;
+}
+#heading{
+  color: #FEC0CB;
+  text-align: center;
+  text-decoration:  underline #FEC0CB;
+}
